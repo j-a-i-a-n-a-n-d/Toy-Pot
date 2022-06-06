@@ -1,0 +1,20 @@
+22-02-2022  03:43 PM    <DIR>          .
+24-10-2021  08:24 PM    <DIR>          ..
+07-12-2021  08:32 PM    <DIR>          .android
+22-09-2020  03:43 PM    <DIR>          3D Objects
+15-10-2020  04:12 PM    <DIR>          ansel
+07-01-2022  12:44 AM            85,815 battery-report.html
+24-10-2021  09:06 PM    <DIR>          Contacts
+20-02-2022  08:57 AM    <DIR>          Desktop
+27-01-2022  05:42 PM    <DIR>          Documents
+23-02-2022  03:52 PM    <DIR>          Downloads
+08-12-2021  04:24 PM    <DIR>          Dropbox
+08-02-2022  03:44 PM               703 ll.txt
+24-10-2021  09:06 PM    <DIR>          Music
+30-12-2021  11:42 PM    <DIR>          New Folder
+24-12-2021  11:30 PM    <DIR>          Pictures
+24-10-2021  09:06 PM    <DIR>          Saved Games
+09-01-2022  07:02 PM               142 test.html
+31-10-2021  12:27 PM    <DIR>          Videos
+              3 File(s)         92,152 bytes
+              15 Dir(s)  52,386,295,808 bytes free
