@@ -1,3 +1,5 @@
 server.key
 
 Dockerfile
+
+ssh_honeypot.log
